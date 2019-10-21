@@ -1,5 +1,5 @@
 ### Falk Amelung, University of Miami, Publications
-1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. _Computers & Geosciences_, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Suppl.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
+1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. *Computers & Geosciences*, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Suppl.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
 ###### 2019  
 1. Wetzler, N., Shalev, E., Göbel, T., Amelung, F., Kurzon, I., Lyakhovsky, V., & Brodsky, E. E. (2019). Earthquake swarms triggered by groundwater extraction near the Dead Sea Fault. _Geophys. Res. Letts._, 46. [PDF](Publications/Wetzler_et_al-2019-Geophysical_Research_Letters.pdf)
 1. Y. Cao, Zhiwei Li, F. Amelung (2019) Mapping ground displacement by a multiple phase difference‐based InSAR approach: with stochastic model estimation and turbulent troposphere mitigation. Journal of Geodesy. [PDF](Publications/CaoLiAmelung_MultiplePhaseDifferencesInSAR_JournalGeodesy_2019.pdf)
