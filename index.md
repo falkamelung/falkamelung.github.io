@@ -10,7 +10,7 @@
 1. Albino, F., Amelung, F., & Gregg, P. (2018). The role of pore fluid pressure on the failure of magma reservoirs: Insights from Indonesian and Aleutian arc volcanoes. *J. Geophys. Res.*, Solid Earth, 123]. [PDF](Publications/AlbinoAmelungGregg_ReservoirFailure_JGR_2018.pdf).
 #### 2017
 1. Morales Rivera, A. M. , F. Amelung, P. Mothes, S.-H. Hong, J.-M. Nocquet, and P. Jarrin (2017), Ground deformation before the 2015 eruptions of Cotopaxi volcano detected by InSAR, *Geophys. Res. Lett.*, 44, 6607–6615]. [PDF](Publications/MoralesAmelungMothes_NorthernAndes_GCubed_2016.pdf)
-1. Torres, Y., K. Premaratne, F. Amelung, S. Wdowinski, An Efficient Polyphase Filter-Based Resampling Method for Unifying the PRFs in SAR Data, *IEEE TGRS*. 55 (10), 5741-5754. [PDF](Publications/Torres_etal_Polyphase_IEEE_2017)
+1. Torres, Y., K. Premaratne, F. Amelung, S. Wdowinski, An Efficient Polyphase Filter-Based Resampling Method for Unifying the PRFs in SAR Data, *IEEE TGRS*. 55 (10), 5741-5754. [PDF](Publications/Torres_etal_Polyphase_IEEE_2017.pdf)
 1. Davidge, L., Ebinger, C., Ruiz, M., Tepp, G., Amelung, F., Geist, D., Coté, D. and Anzieta, J. (2017). Seismicity patterns during a period of inflation at Sierra Negra volcano, Galápagos Ocean Island Chain. *EPSL*, 462, pp.169-179. [PDF](Publications/DavidgeEbingeretal_SierraNegra_EPSL_2017.pdf)
 #### 2016
 1. Morales Rivera*, A. M., F. Amelung, and P. Mothes (2016), Volcano deformation survey over the Northern and Central Andes with ALOS InSAR time series, *Geochem. Geophys. Geosyst.*, 17, 2869–2883, doi:10.1002/2016GC006393. [PDF](Publications/MoralesAmelungMothes_NorthernAndes_GCubed_2016.pdf), [Suppl.](Publications/MoralesAmelungMothes_NorthernAndes_Supp_GCubed_2016.pdf)
