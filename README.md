@@ -1,8 +1,10 @@
 [Google Scholar Profile](https://scholar.google.com/citations?user=fi371DYAAAAJ&hl=en)
 
 #### Published:
-1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. *Computers & Geosciences*, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Supp.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
+1. Farquharson, J.I., Amelung, F. Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano. Nature 580, 491–495 (2020). https://doi.org/10.1038/s41586-020-2172-5, [PDF](Publications/FarquharsonAmelung_Nature_2020_full.pdf)
+
 #### 2019  
+1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. *Computers & Geosciences*, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Supp.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
 1. Wetzler, N., Shalev, E., Göbel, T., Amelung, F., Kurzon, I., Lyakhovsky, V., & Brodsky, E. E. (2019). Earthquake swarms triggered by groundwater extraction near the Dead Sea Fault. *Geophys. Res. Letts.*, 46.      [PDF](Publications/Wetzler_et_al-2019-Geophysical_Research_Letters.pdf)
 1. Y. Cao, Zhiwei Li, F. Amelung (2019) Mapping ground displacement by a multiple phase difference‐based InSAR approach: with stochastic model estimation and turbulent troposphere mitigation. *J. Geodesy*. [PDF](Publications/CaoLiAmelung_MultiplePhaseDifferencesInSAR_JournalGeodesy_2019.pdf)
 1. Morales Rivera, A. M., Amelung, F., Albino, F., & Gregg, P. M. (2019). Impact of crustal rheology on temperature‐dependent viscoelastic models of volcano deformation: Application to Taal volcano, Philippines. *J. Geophys. Res.*, 124. [PDF](Publications/MoralesRiveraAmelung_etal_Taal_JGR_2018.pdf), [Supp.](Publications/MoralesRiveraAmelung_etal_Taal_JGR_2018._supp.docx)
