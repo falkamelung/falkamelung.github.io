@@ -2,7 +2,6 @@
 
 #### Published:
 1. Farquharson, J.I., Amelung, F. Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano. Nature 580, 491–495 (2020). https://doi.org/10.1038/s41586-020-2172-5, [PDF](Publications/FarquharsonAmelung_Nature_2020_full.pdf)
-
 #### 2019  
 1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. *Computers & Geosciences*, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Supp.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
 1. Wetzler, N., Shalev, E., Göbel, T., Amelung, F., Kurzon, I., Lyakhovsky, V., & Brodsky, E. E. (2019). Earthquake swarms triggered by groundwater extraction near the Dead Sea Fault. *Geophys. Res. Letts.*, 46.      [PDF](Publications/Wetzler_et_al-2019-Geophysical_Research_Letters.pdf)
