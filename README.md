@@ -1,9 +1,11 @@
 [Google Scholar Profile](https://scholar.google.com/citations?user=fi371DYAAAAJ&hl=en)
 
 #### Published:
-1. Farquharson, J.I., Amelung, F. Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano. Nature 580, 491–495 (2020). https://doi.org/10.1038/s41586-020-2172-5, [PDF](Publications/FarquharsonAmelung_Nature_2020_full.pdf)
+1. Farquharson, J.I., Amelung, F. Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano. Nature 580, 491–495 (2020). https://doi.org/10.1038/s41586-020-2172-5, [PDF](Publications/FarquharsonAmelung_Nature_2020_full.pdf),[M Manga News & Views](Publications/Manga_NewsViews_Nature_2020.pdf)
 #### 2019  
 1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. *Computers & Geosciences*, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Supp.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
+1.	Shuangyu Ge, Guoqing Lin, Falk Amelung, Paul G. Okubo, Don Swanson (2019), The accommodation of the south flank's motion by the Koa'e fault system, Kīlauea, Hawai'i: insights from the June 2012 earthquake sequence, DOI:10.1029/2018JB016961, [PDF](Publications/Ge_et_al-2019-Journal_of_Geophysical_Research__Solid_Earth.pdf)
+1.	Heap MJ, Villeneuve M, Albino F, Farquharson JI, Brothelande E, Amelung F, Got J-Luc, Baud P (2019), Towards more realistic values of elastic moduli for volcano modelling, J. Volc. Geotherm. Res., doi:https://doi.org/10.1016/j.jvolgeores.2019. [PDF](Publications/Heapetal_YoungsModulus_JVGR_2019)
 1. Wetzler, N., Shalev, E., Göbel, T., Amelung, F., Kurzon, I., Lyakhovsky, V., & Brodsky, E. E. (2019). Earthquake swarms triggered by groundwater extraction near the Dead Sea Fault. *Geophys. Res. Letts.*, 46.      [PDF](Publications/Wetzler_et_al-2019-Geophysical_Research_Letters.pdf)
 1. Y. Cao, Zhiwei Li, F. Amelung (2019) Mapping ground displacement by a multiple phase difference‐based InSAR approach: with stochastic model estimation and turbulent troposphere mitigation. *J. Geodesy*. [PDF](Publications/CaoLiAmelung_MultiplePhaseDifferencesInSAR_JournalGeodesy_2019.pdf)
 1. Morales Rivera, A. M., Amelung, F., Albino, F., & Gregg, P. M. (2019). Impact of crustal rheology on temperature‐dependent viscoelastic models of volcano deformation: Application to Taal volcano, Philippines. *J. Geophys. Res.*, 124. [PDF](Publications/MoralesRiveraAmelung_etal_Taal_JGR_2018.pdf), [Supp.](Publications/MoralesRiveraAmelung_etal_Taal_JGR_2018._supp.docx)
