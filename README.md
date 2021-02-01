@@ -1,7 +1,9 @@
 [Google Scholar Profile](https://scholar.google.com/citations?user=fi371DYAAAAJ&hl=en)
 
 #### 2020:
+1. Lv, Xiaoran, Falk Amelung, Yun Shao, Shu Ye, Ming Liu, and Chou Xie. "Rheology of the Zagros Lithosphere from PostSeismic Deformation of the 2017 Mw7. 3 Kermanshah, Iraq, Earthquake." Remote Sensing 12, no. 12 (2020): 2032.[PDF](Publications/Ge_et_al-2019-Journal_of_Geophysical_Research__Solid_Earth.pdf)
 1. Farquharson, J.I., Amelung, F. Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano. Nature 580, 491–495 (2020). https://doi.org/10.1038/s41586-020-2172-5, [PDF](Publications/FarquharsonAmelung_Nature_2020_full.pdf), [ News & Views by M. Manga](Publications/Manga_NewsViews_Nature_2020.pdf), [Author Corrections](Publications/FarquharsonAmelung_Nature_2020_Author_correction.pdf)
+
 #### 2019  
 1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. *Computers & Geosciences*, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Supp.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
 1.	Shuangyu Ge, Guoqing Lin, Falk Amelung, Paul G. Okubo, Don Swanson (2019), The accommodation of the south flank's motion by the Koa'e fault system, Kīlauea, Hawai'i: insights from the June 2012 earthquake sequence, DOI:10.1029/2018JB016961, [PDF](Publications/Ge_et_al-2019-Journal_of_Geophysical_Research__Solid_Earth.pdf)
