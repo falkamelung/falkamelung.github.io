@@ -1,10 +1,19 @@
 [Google Scholar Profile](https://scholar.google.com/citations?user=fi371DYAAAAJ&hl=en)
 
-#### 2020:
+#### 2023
+1. Zorn, E. U.,  Vassileva M., Walter T. R., Darmawan H., Röhler L., Amelung, F. (2023). Interactions of magmatic intrusions with the multiyear flank instability at Anak Krakatau volcano, Indonesia: Insights from InSAR and analogue modeling. Geology ; doi: https://doi.org/10.1130/G50693.1
+1. Mirzaee, S., Amelung F.,  Fattahi, H. (2023). Non-linear phase linking using joined distributed and persistent scatterers, Computers & Geosciences, Volume 171, https://doi.org/10.1016/j.cageo.2022.105291.
+#### 2022
+1. Farquharson J. I., Amelung F. (2022). Volcanic hazard exacerbated by future global warming-driven increase in heavy rainfallR. Soc. open sci.9220275220275, http://doi.org/10.1098/rsos.220275
+1. Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., & Yunjun, Z. (2022). Forecasting mechanical failure and the 26 June 2018 eruption of Sierra Negra Volcano, Galápagos, Ecuador. Science Advances, 8(22), eabm4261.
+1. Lv, X., F. Amelung, Y. Shao (2022). Widespread Aseismic Slip Along the Makran Megathrust Triggered by the 2013 Mw 7.7 Balochistan Earthquake, Geophysical Research Letters, 10.1029/2021GL097411
+1. Farquharson, J.I., Amelung, F., Reply to: Rainfall an unlikely factor in Kīlauea’s 2018 rift eruption. Nature 602, E11–E14 (2022). https://doi.org/10.1038/s41586-021-04164-0
+#### 2021
 1. Kumar, H., Syed, T.H., Amelung, F., Agrawal, R. and Venkatesh, A.S., 2021. Space-time evolution of land subsidence in the national capital region of india using ALOS-1 and sentinel-1 SAR data: Evidence for groundwater overexploitation. Journal of Hydrology, p.127329.
-1. Lv, Xiaoran, Falk Amelung, Yun Shao, Shu Ye, Ming Liu, and Chou Xie. "Rheology of the Zagros Lithosphere from PostSeismic Deformation of the 2017 Mw7. 3 Kermanshah, Iraq, Earthquake." Remote Sensing 12, no. 12 (2020): 2032. [PDF](Publications/LvAmelung_Kermanshah2017PostSeismic_RemoteSensing_2018.pdf)
-1. Varugu, B., Amelung, F. Southward growth of Mauna Loa???s dike-like magma body driven by topographic stress. Sci Rep 11, 9816 (2021). https://doi.org/10.1038/s41598-021-89203-6
-1. Farquharson, J.I., Amelung, F. Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano. Nature 580, 491–495 (2020). https://doi.org/10.1038/s41586-020-2172-5, [PDF](Publications/FarquharsonAmelung_Nature_2020_full.pdf), [ News & Views by M. Manga](Publications/Manga_NewsViews_Nature_2020.pdf), [Author Corrections](Publications/FarquharsonAmelung_Nature_2020_Author_correction.pdf)
+1. Varugu, B., Amelung, F. Southward growth of Mauna Loa???s dike-like magma body driven by topographic stress. Sci Rep 11, 9816 (2021). https://doi.org/10.1038/s41598-021-89203-6 [PDF](Publications/VaruguAmelung_MaunaLoa_SciReports_2021.pdf)[Supp](Publications/VaruguAmelung_MaunaLoa_ScienReps_Supp_2021.pdf)
+#### 2020
+3. Lv, Xiaoran, Falk Amelung, Yun Shao, Shu Ye, Ming Liu, and Chou Xie. "Rheology of the Zagros Lithosphere from PostSeismic Deformation of the 2017 Mw7. 3 Kermanshah, Iraq, Earthquake." Remote Sensing 12, no. 12 (2020): 2032. [PDF](Publications/LvAmelung_Kermanshah2017PostSeismic_RemoteSensing_2018.pdf)
+4. Farquharson, J.I., Amelung, F. Extreme rainfall triggered the 2018 rift eruption at Kīlauea Volcano. Nature 580, 491–495 (2020). https://doi.org/10.1038/s41586-020-2172-5, [PDF](Publications/FarquharsonAmelung_Nature_2020_full.pdf), [ News & Views by M. Manga](Publications/Manga_NewsViews_Nature_2020.pdf), [Author Corrections](Publications/FarquharsonAmelung_Nature_2020_Author_correction.pdf)
 #### 2019  
 1. Yunjun, Z., Fattahi, H., & Amelung, F. (2019). Small baseline InSAR time series analysis: unwrapping error correction and noise reduction. *Computers & Geosciences*, 104331. [PDF](Publications/YunjunFattahiAmelung_ComputersGeoscienes_2019.pdf), [Supp.](Publications/YunjunFattahiAmelung_ComputersGeoscienes_Supp_2019.pdf)
 1.	Shuangyu Ge, Guoqing Lin, Falk Amelung, Paul G. Okubo, Don Swanson (2019), The accommodation of the south flank's motion by the Koa'e fault system, Kīlauea, Hawai'i: insights from the June 2012 earthquake sequence, DOI:10.1029/2018JB016961, [PDF](Publications/Ge_et_al-2019-Journal_of_Geophysical_Research__Solid_Earth.pdf)
